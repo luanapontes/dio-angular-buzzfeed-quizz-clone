@@ -1,0 +1,55 @@
+{
+  "title": "Qual Pokémon inicial você seria?",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Qual é a sua estratégia em uma batalha?",
+      "options": [
+        { "id": 1, "name": "Ataques poderosos para acabar rapidamente com o inimigo", "alias": "A" },
+        { "id": 2, "name": "Defender e suportar os aliados antes de atacar", "alias": "B" },
+        { "id": 3, "name": "Usar velocidade e agilidade para desestabilizar o adversário", "alias": "C" }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "O que você mais valoriza em uma jornada?",
+      "options": [
+        { "id": 1, "name": "A força e o poder para conquistar", "alias": "A" },
+        { "id": 2, "name": "A lealdade e o trabalho em equipe", "alias": "B" },
+        { "id": 3, "name": "A liberdade e a independência", "alias": "C" }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Como você reage em situações difíceis?",
+      "options": [
+        { "id": 1, "name": "Eu enfrento a dificuldade de frente, com coragem", "alias": "A" },
+        { "id": 2, "name": "Eu procuro ajudar os outros e enfrentar juntos", "alias": "B" },
+        { "id": 3, "name": "Eu busco uma solução rápida e eficiente", "alias": "C" }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Qual é o seu maior sonho?",
+      "options": [
+        { "id": 1, "name": "Ser o mais forte e conquistar tudo", "alias": "A" },
+        { "id": 2, "name": "Proteger as pessoas e ajudar os outros", "alias": "B" },
+        { "id": 3, "name": "Explorar o mundo e ser livre", "alias": "C" }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Qual desses tipos de Pokémon mais te atrai?",
+      "options": [
+        { "id": 1, "name": "Fogo", "alias": "A" },
+        { "id": 2, "name": "Água", "alias": "B" },
+        { "id": 3, "name": "Planta", "alias": "C" }
+      ]
+    }
+  ],
+  "results": {
+    "A": "Você seria o Charmander, o Pokémon do tipo Fogo!",
+    "B": "Você seria o Squirtle, o Pokémon do tipo Água!",
+    "C": "Você seria o Bulbasaur, o Pokémon do tipo Planta!"
+  }
+}
